@@ -1,0 +1,15 @@
+#map {
+  position: absolute;
+  height: 180%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+.menu {
+  display: flex;
+  flex-direction: row;
+}
+p {
+  font-size: 1.3em;
+  color: blue;
+}
