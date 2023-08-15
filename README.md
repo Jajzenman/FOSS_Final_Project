@@ -1,5 +1,8 @@
 # FOSS_Final_Project
 
+# Joseph Ajzenman 8/15/2023
+
+
 Map NYC Health & Hospitals Corporation (entities) in maplibre
 Each hospital center is color coded according to its "Center Type"
  "Acute Care Hospital"           color "Crimson"
