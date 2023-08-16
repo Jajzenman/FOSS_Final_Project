@@ -89,7 +89,7 @@ const layerControl = L.control.layers(baseLayers).addTo(map);
 map.once("load", main);
 
 async function main() {
-  const schoolGeojson = await axios("./data/hospitals.geojson");
+  const schoolGeojson = await axios("../FOSS_Final_Project/data/hospitals.geojson");
 
   map.addSource("hospitals-geo-source", {
     type: "geojson",
